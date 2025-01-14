@@ -131,3 +131,5 @@
    - Lerne das 4-Ohren-Modell, SWOT-Analyse und Projektabschluss.
    - Vertiefe dein Wissen über Nachhaltigkeit (Green IT) und Service-Level-Agreement (SLA).
    - Wiederhole alle Themen und bereite dich auf die Prüfung vor.
+
+# Keine Gewähr auf Richtigkeit
