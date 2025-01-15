@@ -50,4 +50,4 @@ Das Wasserfallmodell ist ein traditionelles, sequenzielles Projektmanagementmode
 
 Das Wasserfallmodell ist ein traditionelles, sequenzielles Projektmanagementmodell, das besonders für Projekte mit klaren und stabilen Anforderungen geeignet ist. Es bietet Klarheit und Struktur, erfordert jedoch eine sorgfältige Planung und Dokumentation. Die geringe Flexibilität und die späte Erkennung von Fehlern sind die Hauptnachteile dieses Modells. Dennoch kann es in bestimmten Kontexten, wie bei kleineren Projekten oder in regulierten Branchen, sehr effektiv sein.
 
-![Wasserfallmodell](./assets/Wasserfallmodell.jpg "Wasserfallmodell")
+![Wasserfallmodell](../assets/Wasserfallmodell.jpg "Wasserfallmodell")
