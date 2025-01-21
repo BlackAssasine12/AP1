@@ -1,7 +1,7 @@
 
 # Änderungen in Wichtigkeit der themen
 # Quellen
-- [Wichtigkeit der Themen: anpassungen ap1 ab 2025 von Stefan Macke](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/)
+- [Vergleich der bisherigen und neuen Inhalte](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/)
 - [Wasserfallmodell von Studyflix](https://studyflix.de/wirtschaft/wasserfallmodell-6748)
 - [PDF von Noel-lang](https://github.com/noel-lang/awesome-fachinformatiker)
 - [Name](Link)
