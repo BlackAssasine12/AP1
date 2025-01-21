@@ -1,5 +1,5 @@
 
-## [Tabelle von Stefan Macke]([Link](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/))
+## [Tabelle von Stefan Macke](https://it-berufe-podcast.de/neuer-pruefungskatalog-fuer-die-ap1-der-it-berufe-ab-2025-it-berufe-podcast-190/)
 
 <table>
     <thead>
