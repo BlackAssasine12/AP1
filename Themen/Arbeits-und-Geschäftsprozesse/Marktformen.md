@@ -88,6 +88,12 @@ Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend a
 - **Arbeitsmärkte**: Wenige große Arbeitgeber in einer Branche.
 - **Rohstoffmärkte**: Wenige große Käufer von Rohstoffen, die den Markt kontrollieren.
 
+|                  | Ein Nachfrager   | Wenige Nachfrager | Viele Nachfrager  |
+|------------------|------------------|-------------------|-------------------|
+| **Ein Anbieter** | Beidseitiges Monopol | Beschränktes Angebotsmonopol | Angebotsmonopol |
+| **Wenige Anbieter** | Beschränktes Nachfragemopol | Beidseitiges Oligopol | Angebotsoligopol |
+| **Viele Anbieter**| Nachfragemopol | Nachfrageoligopol | Beidseitiges Polypol |
+
 ## Zusammenfassung
 
 Die verschiedenen Marktformen beeinflussen die Preisbildung und das Verhalten der Marktteilnehmer erheblich. Durch das Verständnis der Merkmale und Beispiele der verschiedenen Marktformen können Unternehmen und Wirtschaftspolitiker fundierte Entscheidungen treffen und die Marktdynamik besser verstehen. Die Kenntnis der Marktformen ist entscheidend für das Verständnis der wirtschaftlichen Dynamik und der Preisbildung.
