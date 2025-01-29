@@ -4,7 +4,6 @@
 
 Führungsstile beziehen sich auf die Methoden und Verhaltensweisen, die Führungskräfte anwenden, um ihre Mitarbeiter zu leiten, zu motivieren und zu inspirieren. Der Führungsstil kann erheblich beeinflussen, wie effektiv ein Team arbeitet und wie zufrieden die Mitarbeiter sind. Dieses Dokument bietet einen umfassenden Überblick über verschiedene Führungsstile, ihre Merkmale, Vor- und Nachteile sowie Anwendungsbereiche.
 
-Es ist Zu beachten, das ein Unternehmen meist nicht nur ein Führungsstil benutzt.
 
 ## 1. Autoritärer Führungsstil (Auch Hierarchischer Führungsstil)
 
@@ -125,6 +124,28 @@ Es ist Zu beachten, das ein Unternehmen meist nicht nur ein Führungsstil benutz
 - **Produktionsbetriebe**: Klare Ziele und Effizienz.
 - **Verkauf**: Leistungsbezogene Belohnungssysteme.
 - **Dienstleistungsbranche**: Klare Erwartungen und Leistungsüberwachung.
+
+## 6. Situativer Führungsstil
+### Beschreibung
+- **Ziel**: Effizienz steigern, indem Führung individuell auf Mitarbeiter angepasst wird
+- **Merkmale**:
+  1. **Individuelle Anpassung**: Führungskraft reagiert flexibel auf Teammitglieder.
+  2. **Wechsel zwischen Führungsstilen**: Je nach Situation autoritär oder demokratisch.
+  3. **Berücksichtigung von Erfahrung & Motivation**: Mitarbeiter erhalten passende Unterstützung.
+### Vor- und Nachteile
+- **Vorteile**:
+  - Hohe Anpassungsfähigkeit.
+  - Optimale Nutzung von Potenzialen.
+  - Fördert sowohl Struktur als auch Eigenverantwortung.
+- **Nachteile**:
+  - Erfordert viel Erfahrung und Fingerspitzengefühl.
+  - Hoher Zeit- und Kommunikationsaufwand.
+  - Kann uneinheitlich wirken.
+
+### Anwendungsbereiche
+- **Projektmanagement**: Je nach Team und Projektphase anpassbar.
+- **Führung großer Unternehmen**: Unterschiedliche Abteilungen erfordern flexible Führung.
+- **Bildungswesen**: Lehrer passen sich Schülerbedürfnissen an.
 
 ## Zusammenfassung
 
