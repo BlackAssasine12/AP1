@@ -127,7 +127,7 @@ Führungsstile beziehen sich auf die Methoden und Verhaltensweisen, die Führung
 
 ## 6. Situativer Führungsstil
 ### Beschreibung
-- **Ziel**: Effizienz steigern, indem Führung individuell auf Mitarbeiter angepasst wird
+- **Ziel**: Effizienz steigern, indem Führung individuell auf Mitarbeiter angepasst wird.
 - **Merkmale**:
   1. **Individuelle Anpassung**: Führungskraft reagiert flexibel auf Teammitglieder.
   2. **Wechsel zwischen Führungsstilen**: Je nach Situation autoritär oder demokratisch.
