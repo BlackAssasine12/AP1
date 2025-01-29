@@ -25,6 +25,12 @@ Führungsstile beziehen sich auf die Methoden und Verhaltensweisen, die Führung
   - Kann zu Unzufriedenheit und hoher Fluktuation führen.
   - Wenig Raum für Kreativität und Innovation.
 
+| Vorteile                                                                 | Nachteile                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Schnelle Entscheidungsfindung                                             | Geringe Mitarbeiterbeteiligung                                            |
+| Klare Struktur                                                            | Unzufriedenheit                                                           |
+| Effektiv in Krisensituationen                                             | Wenig Raum für Kreativität                                                |
+
 ### Anwendungsbereiche
 - **Militär**: Klare Befehlsketten und Disziplin.
 - **Notfallsituationen**: Schnelle Entscheidungen und klare Anweisungen sind erforderlich.
@@ -48,6 +54,12 @@ Führungsstile beziehen sich auf die Methoden und Verhaltensweisen, die Führung
   - Entscheidungsprozesse können langsamer sein.
   - Kann zu Unklarheiten und Verwirrung führen, wenn keine klaren Richtlinien vorhanden sind.
   - Erfordert erfahrene und kompetente Mitarbeiter.
+  
+| Vorteile                                                                 | Nachteile                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Hohe Mitarbeiterzufriedenheit                                            | Langsamere Entscheidungsprozesse                                           |
+| Förderung von Kreativität                                                | Unklarheiten                                                              |
+| Stärkung des Teamgeistes                                                  | Erfordert erfahrene Mitarbeiter                                           |
 
 ### Anwendungsbereiche
 - **Kreative Branchen**: Werbung, Design, Marketing.
@@ -73,6 +85,12 @@ Führungsstile beziehen sich auf die Methoden und Verhaltensweisen, die Führung
   - Erfordert hochqualifizierte und selbstmotivierte Mitarbeiter.
   - Kann zu Missverständnissen und Konflikten führen, wenn keine klaren Ziele gesetzt sind.
 
+| Vorteile                                                                 | Nachteile                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Förderung von Kreativität                                                | Mangelnde Koordination                                                    |
+| Hohe Mitarbeiterzufriedenheit                                            | Ineffizienz                                                                |
+| Entwicklung von Führungsqualitäten                                        | Erfordert hochqualifizierte Mitarbeiter                                   |
+
 ### Anwendungsbereiche
 - **Forschung und Entwicklung**: Förderung von Innovation und Kreativität.
 - **Kreative Projekte**: Kunst, Musik, Schreiben.
@@ -96,6 +114,12 @@ Führungsstile beziehen sich auf die Methoden und Verhaltensweisen, die Führung
   - Erfordert eine starke und charismatische Führungskraft.
   - Kann zu hohen Erwartungen und Druck auf die Mitarbeiter führen.
   - Erfordert kontinuierliche Anpassung und Veränderung.
+
+| Vorteile                                                                 | Nachteile                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Hohe Mitarbeiterzufriedenheit                                            | Erfordert starke Führungskraft                                             |
+| Förderung von Innovation                                                  | Hohe Erwartungen                                                          |
+| Stärkung des Teamgeistes                                                  | Kontinuierliche Anpassung                                                  |
 
 ### Anwendungsbereiche
 - **Start-ups**: Schnelle Innovation und Wachstum.
@@ -121,6 +145,12 @@ Führungsstile beziehen sich auf die Methoden und Verhaltensweisen, die Führung
   - Geringe intrinsische Motivation der Mitarbeiter.
   - Erfordert kontinuierliche Überwachung und Kontrolle.
 
+| Vorteile                                                                 | Nachteile                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Klare Struktur                                                            | Kurzfristiges Denken                                                       |
+| Effektive Motivation                                                       | Geringe intrinsische Motivation                                            |
+| Förderung von Leistung                                                    | Kontinuierliche Überwachung                                                |
+
 ### Anwendungsbereiche
 - **Produktionsbetriebe**: Klare Ziele und Effizienz.
 - **Verkauf**: Leistungsbezogene Belohnungssysteme.
@@ -142,6 +172,12 @@ Führungsstile beziehen sich auf die Methoden und Verhaltensweisen, die Führung
   - Erfordert viel Erfahrung und Fingerspitzengefühl.
   - Hoher Zeit- und Kommunikationsaufwand.
   - Kann uneinheitlich wirken.
+
+| Vorteile                                                                 | Nachteile                                                                 |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Hohe Anpassungsfähigkeit                                                  | Erfordert viel Erfahrung                                                  |
+| Optimale Nutzung von Potenzialen                                         | Hoher Zeit- und Kommunikationsaufwand                                     |
+| Förderung von Struktur und Eigenverantwortung                             | Kann uneinheitlich wirken                                                 |
 
 ### Anwendungsbereiche
 - **Projektmanagement**: Je nach Team und Projektphase anpassbar.
