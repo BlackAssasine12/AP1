@@ -9,3 +9,7 @@
 ### Leitungssysteme in Arbeits- und Geschäftsprozessen
 - **Konsens** in Bezug auf Leitungssysteme in Arbeits- und Geschäftsprozessen, insbesondere in Entscheidungsstrukturen
 Der Begriff Konsens bezeichnet eine allgemeine Übereinstimmung innerhalb einer Gruppe, bei der alle Beteiligten einer Entscheidung oder einem Vorgehen zustimmen oder zumindest keinen aktiven Widerspruch einlegen.
+
+- **Leistungsindikatoren** (Key Performance Indicators, KPIs) sind messbare Werte, die den Erfolg oder Fortschritt von Aktivitäten und Zielen in einem Unternehmen oder Arbeitsprozess widerspiegeln. Sie spielen eine wichtige Rolle im Rahmen von Kontrollmechanismen, da sie als Instrumente dienen, um die Effizienz, Produktivität und Qualität von Prozessen zu überwachen und zu steuern.
+
+- **Audits** sind systematische und unabhängige Überprüfungen oder Bewertungen von Prozessen, Systemen, Finanzdaten oder anderen relevanten Informationen, um sicherzustellen, dass sie bestimmten Standards, gesetzlichen Vorgaben, internen Richtlinien und besten Praktiken entsprechen. Audits können in verschiedenen Bereichen und zu unterschiedlichen Zwecken durchgeführt werden. Sie sind ein zentrales Instrument zur Kontrolle und Verbesserung von Geschäftsprozessen und dienen der Qualitätssicherung, Transparenz und Rechenschaftspflicht.
