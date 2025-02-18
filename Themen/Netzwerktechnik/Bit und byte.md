@@ -41,6 +41,16 @@ Die folgende Tabelle zeigt die Werte für Umrechnungen zwischen den Einheiten:
 | Gigabyte         | Byte                    | `1024 × 1024 × 1024`   |
 | Byte             | Gigabyte                | `1 ÷ (1024 × 1024 × 1024)` |
 
+| Einheit    | Symbol  | Größe in Byte                 |
+|------------|---------|-------------------------------|
+| Bit        | b       | 1 Bit                         |
+| Byte       | B       | 8 Bit                         |
+| Kibibyte   | KiB     | 1024 Byte (2^10 Byte)         |
+| Mebibyte   | MiB     | 1024 KiB (2^20 Byte)          |
+| Gibibyte   | GiB     | 1024 MiB (2^30 Byte)          |
+| Tebibyte   | TiB     | 1024 GiB (2^40 Byte)          |
+| Pebibyte   | PiB     | 1024 TiB (2^50 Byte)          |
+| Exbibyte   | EiB     | 1024 PiB (2^60 Byte)          |
 ---
 
 ## Allgemeiner Rechenweg
