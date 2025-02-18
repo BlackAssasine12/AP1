@@ -46,5 +46,16 @@ Das OSI-Modell (Open Systems Interconnection Model) ist ein konzeptionelles Mode
 - **Interoperabilität**: Verschiedene Systeme können miteinander kommunizieren, wenn sie die gleichen Protokolle verwenden.
 - **Fehlerisolierung**: Probleme können leichter identifiziert und behoben werden, da sie auf eine bestimmte Schicht beschränkt sind.
 
+| OSI-Schicht | Deutscher Name der Schicht    | Englischer Name der Schicht     | Begriff (z. B. TCP)      | Erkennungsmerkmale                                      |
+|-------------|-------------------------------|----------------------------------|--------------------------|--------------------------------------------------------|
+| 7           | Anwendungsschicht             | Application Layer               | HTTP, FTP, SMTP          | Anwendungen wie Browser oder E-Mail-Programme         |
+| 6           | Darstellungsschicht           | Presentation Layer              | SSL/TLS, JPEG, MPEG      | Datenverschlüsselung oder -umwandlung                 |
+| 5           | Sitzungsschicht               | Session Layer                   | NetBIOS, RPC             | Verbindungssteuerung (z. B. Sitzungsprotokollierung)  |
+| 4           | Transportschicht              | Transport Layer                 | TCP, UDP                 | Ports (z. B. 80 für HTTP, 443 für HTTPS)              |
+| 3           | Netzwerkschicht               | Network Layer                   | IP, ICMP, ARP            | IP-Adressen (z. B. IPv4, IPv6)                        |
+| 2           | Sicherungsschicht             | Data Link Layer                 | Ethernet, MAC-Adressen   | MAC-Adressen (z. B. physische Adresse der Netzwerkkarte) |
+| 1           | Bitübertragungsschicht        | Physical Layer                  | Kabel, WLAN, Bluetooth   | Physische Verbindungen (z. B. Netzwerkkabel, Signalstärke) |
+
+
 ## Zusammenfassung
 Das OSI-Modell bietet eine strukturierte und standardisierte Methode zur Beschreibung der Netzwerkkommunikation. Es hilft Netzwerkadministratoren und Entwicklern, die Komplexität von Netzwerken zu verstehen und zu verwalten, indem es die Funktionen in sieben klar definierte Schichten unterteilt.
