@@ -30,10 +30,7 @@ Zusätzliche Einheiten werden durch Potenzen von 1024 dargestellt:
 
 Die folgende Tabelle zeigt die Werte für Umrechnungen zwischen den Einheiten:
 
-<div style="display: flex; justify-content: space-between;">
-  <h2>IEC-Binärpräfixe</h2>
-  <h2>SI-Dezimalpräfixe</h2>
-</div>
+## IEC-Binärpräfixe und SI-Dezimalpräfixe
 
 | Anzahl Bytes | Name     | Symbol | Unterschied gerundet | Anzahl Bytes | Name      | Symbol |
 | ------------ | -------- | ------ | -------------------- | ------------ | --------- | ------ |
@@ -46,37 +43,19 @@ Die folgende Tabelle zeigt die Werte für Umrechnungen zwischen den Einheiten:
 | 2^70         | Zebibyte | ZiB    | 18,1 %               | 10^21        | Zettabyte | ZB     |
 | 2^80         | Yobibyte | YiB    | 20,9 %               | 10^24        | Yottabyte | YB     |
     
-
-
-
 ---
 
-## Allgemeiner Rechenweg
+## Umrechnung
+Beispielaufgabe 2.4 Tebibyte in Gigabyte
 
-### Von einer größeren Einheit zu einer kleineren Einheit (z. B. MB → Byte):
-Multipliziere den Wert mit dem entsprechenden Multiplikator:
+$Zahlenwert \cdot \frac{Einheit}{Zieleinheit} \cdot Zieleinheit$
 
-\[
-Wert_{kleinere Einheit} = Wert_{größere Einheit} \times Multiplikator
-\]
+$2.4 \cdot \frac{Tebibyte}{Gigabyte} \cdot Gigabyte$
 
-**Beispiel:**
+$2.4 \cdot \frac{2^40}{10^9} \cdot Gigabyte$
 
-1 Megabyte (MB) = 1 × 1024 × 1024 = 1.048.576 Byte
+(gemeint ist 2^40)
 
-### Von einer kleineren Einheit zu einer größeren Einheit (z. B. Byte → MB):
-Teile den Wert durch den entsprechenden Multiplikator:
+$2638.83 \cdot Gigabyte$
 
-\[
-Wert_{größere Einheit} = \frac{Wert_{kleinere Einheit}}{Multiplikator}
-\]
-
-**Beispiel:**
-
-1.048.576 Byte = 1.048.576 ÷ (1024 × 1024) = 1 Megabyte (MB)
-
----
-
-## Fazit
-
-Diese Umrechnungstabelle und der allgemeine Rechenweg können helfen, Dateigrößen präzise und schnell umzurechnen. Mit der Tabelle als Referenz und den Rechenmethoden bist du bestens für Berechnungen im Bereich Bit und Byte ausgestattet.
+2.638,83 Gigabyte
