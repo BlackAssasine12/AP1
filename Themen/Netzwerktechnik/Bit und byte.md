@@ -54,6 +54,8 @@ $2.4 \cdot \frac{Tebibyte}{Gigabyte} \cdot Gigabyte$
 
 $2.4 \cdot \frac{2^40}{10^9} \cdot Gigabyte$
 
+(gemeint ist 2^40)
+
 $2638.83 \cdot Gigabyte$
 
 2.638,83 Gigabyte
