@@ -13,16 +13,16 @@ In der digitalen Welt spielen Bit und Byte eine zentrale Rolle, wenn es um die G
 
 Zusätzliche Einheiten werden durch Potenzen von 1024 dargestellt:
 
-| Einheit   | Symbol  | Größe in Byte                 |
-|-----------|---------|-------------------------------|
-| Bit       | b       | 1 Bit                         |
-| Byte      | B       | 8 Bit                         |
-| Kilobyte  | KB      | 1024 Byte (2^10 Byte)         |
-| Megabyte  | MB      | 1024 KB (2^20 Byte)           |
-| Gigabyte  | GB      | 1024 MB (2^30 Byte)           |
-| Terabyte  | TB      | 1024 GB (2^40 Byte)           |
-| Petabyte  | PB      | 1024 TB (2^50 Byte)           |
-| Exabyte   | EB      | 1024 PB (2^60 Byte)           |
+| Einheit  | Symbol | Größe in Byte         |
+| -------- | ------ | --------------------- |
+| Bit      | b      | 1 Bit                 |
+| Byte     | B      | 8 Bit                 |
+| Kilobyte | KB     | 1024 Byte (2^10 Byte) |
+| Megabyte | MB     | 1024 KB (2^20 Byte)   |
+| Gigabyte | GB     | 1024 MB (2^30 Byte)   |
+| Terabyte | TB     | 1024 GB (2^40 Byte)   |
+| Petabyte | PB     | 1024 TB (2^50 Byte)   |
+| Exabyte  | EB     | 1024 PB (2^60 Byte)   |
 
 ---
 
@@ -30,27 +30,25 @@ Zusätzliche Einheiten werden durch Potenzen von 1024 dargestellt:
 
 Die folgende Tabelle zeigt die Werte für Umrechnungen zwischen den Einheiten:
 
-| Ursprungseinheit | Zielgröße (Byte)         | Multiplikator          |
-|------------------|--------------------------|------------------------|
-| Bit              | Byte                    | `1 ÷ 8`                |
-| Byte             | Bit                     | `8`                    |
-| Kilobyte         | Byte                    | `1024`                 |
-| Byte             | Kilobyte                | `1 ÷ 1024`             |
-| Megabyte         | Byte                    | `1024 × 1024`          |
-| Byte             | Megabyte                | `1 ÷ (1024 × 1024)`    |
-| Gigabyte         | Byte                    | `1024 × 1024 × 1024`   |
-| Byte             | Gigabyte                | `1 ÷ (1024 × 1024 × 1024)` |
+<div style="display: flex; justify-content: space-between;">
+  <h2>IEC-Binärpräfixe</h2>
+  <h2>SI-Dezimalpräfixe</h2>
+</div>
 
-| Einheit    | Symbol  | Größe in Byte                 |
-|------------|---------|-------------------------------|
-| Bit        | b       | 1 Bit                         |
-| Byte       | B       | 8 Bit                         |
-| Kibibyte   | KiB     | 1024 Byte (2^10 Byte)         |
-| Mebibyte   | MiB     | 1024 KiB (2^20 Byte)          |
-| Gibibyte   | GiB     | 1024 MiB (2^30 Byte)          |
-| Tebibyte   | TiB     | 1024 GiB (2^40 Byte)          |
-| Pebibyte   | PiB     | 1024 TiB (2^50 Byte)          |
-| Exbibyte   | EiB     | 1024 PiB (2^60 Byte)          |
+| Anzahl Bytes | Name     | Symbol | Unterschied gerundet | Anzahl Bytes | Name      | Symbol |
+| ------------ | -------- | ------ | -------------------- | ------------ | --------- | ------ |
+| 2^10         | Kibibyte | KiB    | 2,4 %                | 10^3         | Kilobyte  | kB     |
+| 2^20         | Mebibyte | MiB    | 4,4 %                | 10^6         | Megabyte  | MB     |
+| 2^30         | Gibibyte | GiB    | 7,4 %                | 10^9         | Gigabyte  | GB     |
+| 2^40         | Tebibyte | TiB    | 9,1 %                | 10^12        | Terabyte  | TB     |
+| 2^50         | Pebibyte | PiB    | 12,6 %               | 10^15        | Petabyte  | PB     |
+| 2^60         | Exbibyte | EiB    | 15,3 %               | 10^18        | Exabyte   | EB     |
+| 2^70         | Zebibyte | ZiB    | 18,1 %               | 10^21        | Zettabyte | ZB     |
+| 2^80         | Yobibyte | YiB    | 20,9 %               | 10^24        | Yottabyte | YB     |
+    
+
+
+
 ---
 
 ## Allgemeiner Rechenweg
