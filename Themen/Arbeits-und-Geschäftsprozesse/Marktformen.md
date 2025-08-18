@@ -1,7 +1,6 @@
 # Marktformen
 
 ## Einführung
-
 Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend auf der Anzahl und dem Verhalten der Anbieter und Nachfrager. Die Kenntnis der verschiedenen Marktformen ist entscheidend für das Verständnis der wirtschaftlichen Dynamik und der Preisbildung. Dieses Dokument bietet einen umfassenden Überblick über die wichtigsten Marktformen und ihre Merkmale.
 
 ## 1. Vollkommener Wettbewerb
@@ -18,6 +17,18 @@ Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend a
 - **Agrarmärkte**: Märkte für landwirtschaftliche Produkte wie Weizen oder Mais.
 - **Rohstoffmärkte**: Märkte für Rohstoffe wie Öl oder Metalle.
 
+### Vorteile
+- Effiziente Preisbildung durch Angebot und Nachfrage  
+- Hohe Transparenz für alle Marktteilnehmer  
+- Konsumenten profitieren von günstigen Preisen  
+
+### Nachteile
+- Kaum Innovation, da Produkte homogen sind  
+- Anbieter haben geringe Gewinnmargen  
+- In der Realität fast nie vollständig erreichbar  
+
+---
+
 ## 2. Monopol
 
 ### Beschreibung
@@ -31,6 +42,18 @@ Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend a
 ### Beispiele
 - **Öffentliche Versorgungsunternehmen**: Stromversorgung, Wasserversorgung.
 - **Patentierte Produkte**: Pharmazeutische Produkte, die durch Patente geschützt sind.
+
+### Vorteile
+- Planungssicherheit für den Anbieter  
+- Effizienz durch große Produktionsmengen (Skaleneffekte)  
+- Teilweise gesicherte Qualität (z. B. öffentliche Versorgung)  
+
+### Nachteile
+- Hohe Preise für Konsumenten  
+- Wenig Anreiz für Innovation  
+- Gefahr von schlechterer Qualität mangels Konkurrenz  
+
+---
 
 ## 3. Oligopol
 
@@ -46,6 +69,18 @@ Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend a
 - **Automobilindustrie**: Wenige große Hersteller wie Toyota, Volkswagen, General Motors.
 - **Telekommunikationsindustrie**: Wenige große Anbieter wie AT&T, Verizon, Deutsche Telekom.
 
+### Vorteile
+- Oft innovative Produkte durch Wettbewerb unter wenigen großen Anbietern  
+- Möglichkeit zu Kostensenkungen durch große Produktionsmengen  
+- Stabilere Preise als im vollkommenen Wettbewerb  
+
+### Nachteile
+- Preisabsprachen oder Kartellbildung möglich  
+- Eingeschränkte Auswahl für Konsumenten  
+- Hohe Markteintrittsbarrieren für neue Anbieter  
+
+---
+
 ## 4. Monopolistischer Wettbewerb
 
 ### Beschreibung
@@ -59,6 +94,18 @@ Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend a
 ### Beispiele
 - **Restaurants**: Viele Restaurants bieten ähnliche, aber unterschiedliche Speisen an.
 - **Bekleidungsindustrie**: Viele Hersteller bieten ähnliche, aber unterschiedliche Kleidungsstücke an.
+
+### Vorteile
+- Große Auswahl für Konsumenten  
+- Innovationsanreize durch Differenzierung  
+- Relativ freier Zugang für neue Anbieter  
+
+### Nachteile
+- Viel Werbung nötig → hohe Kosten  
+- Preise oft höher als im vollkommenen Wettbewerb  
+- Kurzfristige Überkapazitäten möglich  
+
+---
 
 ## 5. Monopson
 
@@ -74,6 +121,18 @@ Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend a
 - **Arbeitsmärkte**: Ein großer Arbeitgeber in einer kleinen Stadt.
 - **Rohstoffmärkte**: Ein großer Käufer von Rohstoffen, der den Markt kontrolliert.
 
+### Vorteile
+- Stabile Nachfrage für Anbieter  
+- Planungssicherheit für Produzenten  
+- Teilweise Vereinfachung der Organisation (ein Abnehmer)  
+
+### Nachteile
+- Anbieter abhängig von einem Nachfrager  
+- Preise können stark gedrückt werden  
+- Wenig Verhandlungsmacht für Produzenten  
+
+---
+
 ## 6. Oligopson
 
 ### Beschreibung
@@ -87,6 +146,18 @@ Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend a
 ### Beispiele
 - **Arbeitsmärkte**: Wenige große Arbeitgeber in einer Branche.
 - **Rohstoffmärkte**: Wenige große Käufer von Rohstoffen, die den Markt kontrollieren.
+
+### Vorteile
+- Relativ stabile Nachfrage  
+- Teilweise bessere Konditionen für Nachfrager  
+- Anbieter haben mehrere, wenn auch wenige, Absatzmöglichkeiten  
+
+### Nachteile
+- Preisdruck auf Anbieter hoch  
+- Gefahr von Absprachen zwischen Nachfragern  
+- Weniger Vielfalt im Absatzmarkt für Anbieter  
+
+---
 
 |                  | Ein Nachfrager   | Wenige Nachfrager | Viele Nachfrager  |
 |------------------|------------------|-------------------|-------------------|
@@ -103,3 +174,4 @@ Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend a
 ## Zusammenfassung
 
 Die verschiedenen Marktformen beeinflussen die Preisbildung und das Verhalten der Marktteilnehmer erheblich. Durch das Verständnis der Merkmale und Beispiele der verschiedenen Marktformen können Unternehmen und Wirtschaftspolitiker fundierte Entscheidungen treffen und die Marktdynamik besser verstehen. Die Kenntnis der Marktformen ist entscheidend für das Verständnis der wirtschaftlichen Dynamik und der Preisbildung.
+
