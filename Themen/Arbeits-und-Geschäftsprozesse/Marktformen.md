@@ -94,6 +94,12 @@ Marktformen beschreiben die Struktur und das Verhalten von Märkten, basierend a
 | **Wenige Anbieter** | Beschränktes Nachfragemopol | Beidseitiges Oligopol | Angebotsoligopol |
 | **Viele Anbieter**| Nachfragemopol | Nachfrageoligopol | Beidseitiges Polypol |
 
+|                  | Ein Nachfrager (z. B.) | Wenige Nachfrager (z. B.) | Viele Nachfrager (z. B.) |
+|------------------|-------------------------|---------------------------|---------------------------|
+| **Ein Anbieter** | Waffenhersteller → Staat | Spezieller Medikamentenhersteller → wenige Kliniken | Deutsche Bahn |
+| **Wenige Anbieter** | Kleine Bauern → wenige große Einzelhändler | Flugzeugbau (Airbus/Boeing vs. Airlines) | Automobilmarkt (VW, BMW, Mercedes) |
+| **Viele Anbieter** | Viele Bauern → Aldi | Viele Bauern → wenige Supermarktketten | Wochenmarkt |
+
 ## Zusammenfassung
 
 Die verschiedenen Marktformen beeinflussen die Preisbildung und das Verhalten der Marktteilnehmer erheblich. Durch das Verständnis der Merkmale und Beispiele der verschiedenen Marktformen können Unternehmen und Wirtschaftspolitiker fundierte Entscheidungen treffen und die Marktdynamik besser verstehen. Die Kenntnis der Marktformen ist entscheidend für das Verständnis der wirtschaftlichen Dynamik und der Preisbildung.
