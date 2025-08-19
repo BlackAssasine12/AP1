@@ -20,6 +20,7 @@
 - [Konzeption einer IT-Ausstattung](./Themen/IT-Systeme_und_Netzwerke/Konzeption_IT-Ausstattung.md)
 - [Server-Virtualisierung](./Themen/IT-Systeme_und_Netzwerke/Server-Virtualisierung.md)
 - [Verschlüsselungsverfahren](./Themen/IT-Systeme_und_Netzwerke/Verschlüsselungsverfahren.md)
+- [Betriebliche Informationssysteme](./Themen/IT-Systeme_und_Netzwerke/Betriebliche_Informationssysteme.md)
 
 ### 4. Netzwerktechnik
 - [IPv4 und IPv6 Informationen](./Themen/Netzwerktechnik/IPv4_und_IPv6_Informationen.md)
