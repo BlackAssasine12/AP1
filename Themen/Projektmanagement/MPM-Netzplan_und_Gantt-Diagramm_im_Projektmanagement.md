@@ -21,13 +21,53 @@ Das Metra-Potential-Method (MPM) Netzplan und das Gantt-Diagramm sind zwei wicht
 - **Erlernen**: Erfordert Schulung und Erfahrung im Umgang mit der Methode.
 - **Aktualisierung**: Regelmäßige Aktualisierung erforderlich, um den aktuellen Stand des Projekts widerzuspiegeln.
 
-### Berechnung der Schritte
-1. **Aufgaben identifizieren**: Alle Aufgaben des Projekts auflisten.
-2. **Abhängigkeiten bestimmen**: Die Abhängigkeiten zwischen den Aufgaben festlegen.
-3. **Zeitschätzungen vornehmen**: Die Dauer jeder Aufgabe schätzen.
-4. **Netzplan erstellen**: Die Aufgaben und Abhängigkeiten in einem Netzplan darstellen.
-5. **Kritischer Pfad berechnen**: Den längsten Pfad durch das Netzwerk identifizieren, der die minimale Projektdauer bestimmt.
-6. **Pufferzeiten berechnen**: Die Pufferzeiten für nicht-kritische Aufgaben berechnen.
+## Zentrale Begriffe
+
+- **Vorgang**: Ein Arbeitsschritt im Projekt (z. B. „Wände mauern“).
+- **Dauer (d)**: Benötigte Zeitspanne für einen Vorgang (in Tagen, Wochen etc.).
+
+### Zeitliche Kenngrößen
+- **FAZ (Frühester Anfangszeitpunkt)**: Früheste mögliche Startzeit eines Vorgangs, ohne Vorgänger zu verletzen.
+- **FEZ (Frühester Endzeitpunkt)**: Frühestes mögliches Ende eines Vorgangs.  
+  **Formel:** `FEZ = FAZ + Dauer`
+
+- **SAZ (Spätester Anfangszeitpunkt)**: Spätest möglicher Start, ohne das Projektende zu verzögern.  
+  **Formel:** `SAZ = SEZ - Dauer`
+
+- **SEZ (Spätester Endzeitpunkt)**: Spätest mögliches Ende, ohne das Projektende zu verzögern.
+
+### Pufferzeiten
+- **GP (Gesamtpuffer)**: Zeitspanne, um die ein Vorgang maximal verschoben werden kann, **ohne das Projektende zu verschieben**.  
+  **Formel:** `GP = SEZ - FEZ` oder `GP = SAZ - FAZ`
+
+- **FP (Freier Puffer)**: Zeitspanne, um die ein Vorgang verschoben werden kann, **ohne den frühesten Anfang eines Nachfolgers zu verschieben**.  
+  **Formel:** `FP = min(FAZ der Nachfolger) - FEZ`
+
+---
+
+## Vorgehensweise zur Berechnung
+
+1. **Vorwärtsrechnung (Bestimmung von FAZ & FEZ)**
+   - Startvorgänge beginnen mit `FAZ = 0`.
+   - Berechne: `FEZ = FAZ + Dauer`
+   - Für Nachfolger: `FAZ = max(FEZ der Vorgänger)`
+
+2. **Rückwärtsrechnung (Bestimmung von SEZ & SAZ)**
+   - Endvorgänge: `SEZ = FEZ (des letzten Vorgangs auf kritischem Pfad)`
+   - Berechne: `SAZ = SEZ - Dauer`
+   - Für Vorgänger: `SEZ = min(SAZ der Nachfolger)`
+
+3. **Pufferzeiten**
+   - **Gesamtpuffer**: `GP = SAZ - FAZ`
+   - **Freier Puffer**: `FP = min(FAZ Nachfolger) - FEZ`
+
+---
+
+## Kritischer Pfad
+- Alle Vorgänge mit **GP = 0** liegen auf dem **kritischen Pfad**.  
+- Diese Vorgänge bestimmen die **Mindestprojektdauer**.  
+- Verzögerungen dort verzögern das gesamte Projekt.
+
 
 ## Gantt-Diagramm
 
