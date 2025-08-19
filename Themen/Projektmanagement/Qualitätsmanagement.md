@@ -60,6 +60,15 @@ Qualitätsmanagement ist ein systematischer Ansatz zur Sicherstellung, dass Prod
 - **Beschreibung**: Philosophie der kontinuierlichen Verbesserung durch kleine, schrittweise Verbesserungen.
 - **Anwendung**: Regelmäßige Kaizen-Workshops, Einbeziehung aller Mitarbeiter, kontinuierliche Verbesserung.
 
+### 6. FMEA (Fehler-Möglichkeits- und Einfluss-Analyse)
+- **Beschreibung**: Systematische Methode zur Identifizierung potenzieller Fehler, deren Ursachen und Auswirkungen.
+- **Anwendung**: Bewertung der Risiken von Fehlern anhand von Auftretenswahrscheinlichkeit, Bedeutung und Entdeckbarkeit; Priorisierung von Maßnahmen zur Fehlervermeidung.
+
+### 7. QPQP (Qualitätsplanungs- und Prüfplanverfahren)
+- **Beschreibung**: Verfahren zur frühzeitigen Planung und Dokumentation von Qualitäts- und Prüfmaßnahmen im Produktentstehungsprozess.
+- **Anwendung**: Erstellung von Prüfplänen, Definition von Qualitätszielen und Prüfmethoden, Integration in die Projektplanung zur Sicherstellung von Produktqualität.
+
+
 ## Vorteile des Qualitätsmanagements
 - **Kundenzufriedenheit**: Erhöhung der Kundenzufriedenheit durch Erfüllung der Qualitätsanforderungen.
 - **Effizienz**: Steigerung der Effizienz durch Optimierung von Prozessen und Reduzierung von Verschwendung.
