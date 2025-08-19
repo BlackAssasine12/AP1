@@ -40,7 +40,7 @@
 ### 6. Software und Programmierung
 - [Netzwerke](./Themen/Software_und_Programmierung/Netzwerke.md)
 - [Software und Programmierung](./Themen/Software_und_Programmierung/Software_und_Programmierung.md)
-
+- [Libraries und Frameworks](./Themen/Software_und_Programmierung/Libraries_und_Frameworks.md)
 ---
 
 ### Zusätzliche Dateien
