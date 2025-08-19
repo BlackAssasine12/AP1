@@ -37,6 +37,7 @@
 - [Projektmanagement](./Themen/Projektmanagement/Projektmanagement.md)
 - [Qualitätsmanagement](./Themen/Projektmanagement/Qualitätsmanagement.md)
 - [Wasserfallmodell im Projektmanagement](./Themen/Projektmanagement/Wasserfallmodell.md)
+- [Lastenheft und Pflichtenheft](./Themen/Projektmanagement/Lastenheft_und_Pflichtenheft.md)
 
 ### 6. Software und Programmierung
 - [Netzwerke](./Themen/Software_und_Programmierung/Netzwerke.md)
