@@ -7,6 +7,7 @@
 - [Leitungssysteme in Arbeits- und Geschäftsprozessen](./Themen/Arbeits-und-Geschäftsprozesse/Leitungssysteme_in_Arbeits-und_Geschäftsprozessen.md)
 - [Marktformen](./Themen/Arbeits-und-Geschäftsprozesse/Marktformen.md)
 - [Rechtsformen und Wirtschaftlichkeitsüberlegungen](./Themen/Arbeits-und-Geschäftsprozesse/Rechtsformen_und_Wirtschaftlichkeitsüberlegungen.md)
+- [Marketing- und Kommunikationsmodelle](./Themen/Arbeits-und-Geschäftsprozesse/Marketing_und_Kommunikationsmodelle.md)
 
 ### 2. IT-Sicherheit
 - [DSGVO Informationen](./Themen/IT-Sicherheit/DSGVO_Informationen.md)
