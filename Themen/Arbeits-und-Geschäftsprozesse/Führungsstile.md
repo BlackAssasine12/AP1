@@ -204,3 +204,19 @@ Führungsstile beziehen sich auf die Methoden und Verhaltensweisen, die Führung
 ## Zusammenfassung
 
 Führungsstile beeinflussen die Dynamik und Effektivität eines Teams erheblich. Durch die sorgfältige Auswahl und Anwendung des passenden Führungsstils können Führungskräfte ihre Mitarbeiter motivieren, inspirieren und zu Höchstleistungen anspornen. Die Berücksichtigung der Vor- und Nachteile sowie der Anwendungsbereiche der verschiedenen Führungsstile ist dabei entscheidend für den langfristigen Erfolg.
+
+## Übersichtstabelle
+
+| Führungsstil           | Kurzbeschreibung                                           | Vorteile (kurz)                | Nachteile (kurz)               | Typische Anwendungsbereiche         |
+|------------------------|------------------------------------------------------------|--------------------------------|--------------------------------|-------------------------------------|
+| **Autoritär**          | Strikte Kontrolle, klare Anweisungen, keine Mitsprache     | Schnell, klare Struktur        | Unzufriedenheit, wenig kreativ | Militär, Krisen, Produktion         |
+| **Demokratisch**       | Mitarbeiterbeteiligung, offene Kommunikation              | Motivation, Kreativität        | Langsamere Entscheidungen      | Kreativbranchen, Bildung, NGOs      |
+| **Laissez-faire**      | Hohe Freiheit, minimale Kontrolle                         | Kreativität, Eigenständigkeit  | Chaos, ineffizient             | Forschung, Kunst, Freiberuflich     |
+| **Transformationell**  | Visionär, inspirierend, teamfördernd                      | Motivation, Innovation         | Hohe Erwartungen, Druck        | Start-ups, Technologie, Bildung     |
+| **Transaktional**      | Belohnungssystem, klare Ziele, Kontrolle                  | Struktur, Effizienz            | Kurzfristdenken, Kontrolle     | Vertrieb, Produktion, Dienstleistungen |
+| **Situativ**           | Flexibel, an Mitarbeiter & Situation angepasst            | Anpassungsfähig, motivierend   | Hoher Aufwand, komplex         | Projektmanagement, große Unternehmen |
+| **Partizipativ**       | Aktive Beteiligung der Mitarbeiter                        | Motivation, Engagement         | Langsamer, Abstimmungsbedarf   | Teams mit flacher Hierarchie        |
+| **Kooperativ**         | Zusammenarbeit auf Augenhöhe                              | Vertrauen, Teamgeist           | Weniger klare Führung          | Projektarbeit, Bildung              |
+| **Charismatisch**      | Führung durch Ausstrahlung und Persönlichkeit             | Motivation, Loyalität          | Abhängigkeit von Person        | Politik, Unternehmen im Wandel      |
+| **Bürokratisch**       | Strikte Regeln & Prozesse                                 | Sicherheit, Struktur           | Starr, wenig flexibel          | Verwaltung, Behörden                |
+| **Visionär**           | Zukunftsorientiert, inspiriert durch langfristige Ziele   | Motivation, Richtung           | Kann unrealistisch wirken      | Start-ups, Innovation, Strategie    |
