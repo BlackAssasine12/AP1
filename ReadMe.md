@@ -22,8 +22,6 @@
 - [Server-Virtualisierung](./Themen/IT-Systeme_und_Netzwerke/Server-Virtualisierung.md)
 - [Verschlüsselungsverfahren](./Themen/IT-Systeme_und_Netzwerke/Verschlüsselungsverfahren.md)
 <!-- - [Betriebliche Informationssysteme](./Themen/IT-Systeme_und_Netzwerke/Betriebliche_Informationssysteme.md)  -->
-
-
 - [Zentrale und dezentrale IT-Infrastruktur](./Themen/IT-Systeme_und_Netzwerke/Zentrale_und_Dezentrale_IT-Infrastruktur.md)
 
 ### 4. Netzwerktechnik
